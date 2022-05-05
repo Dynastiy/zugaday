@@ -101,12 +101,12 @@ var ShareToFaceBook = function ShareToFaceBook() {
 	
 		
 	
-		 var url="http://www.example.com"; //Set desired URL here
+		 var url="https://samzugaday.netlify.app/"; //Set desired URL here
 		//  var img = f;
 		  //Set Desired Image here
 		 var totalurl=encodeURIComponent(url+'?img='+f);
 		 
-		 window.open ('http://www.facebook.com/sharer.php?s='+totalurl,'','width=500, height=500, scrollbars=yes, resizable=no');
+		 window.open ('http://www.facebook.com/sharer.php?u='+totalurl,'','width=500, height=500, scrollbars=yes, resizable=no');
 		 
 		 
 }
