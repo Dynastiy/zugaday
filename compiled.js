@@ -101,7 +101,7 @@ var ShareToFaceBook = function ShareToFaceBook() {
 	
 		
 	
-		 var url="https://samzugaday.netlify.app/"; //Set desired URL here
+		 var url="https://samzugaday.buyszc.com/"; //Set desired URL here
 		//  var img = f;
 		  //Set Desired Image here
 		 var totalurl=encodeURIComponent(url+'?img='+f);
